@@ -1,3 +1,7 @@
-name: Your New Jekyll Site
+name: Spladow.org
+description: Thomas Dunlap wanted to make blogging a bit more difficult for himself
+paginate: 10
+permalink: pretty
+
 markdown: redcarpet
 pygments: true
