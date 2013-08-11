@@ -102,6 +102,10 @@ ul.posts span {
   overflow: hidden;
 }
 
+.site .footer .elsewhere li {
+  display: inline;
+}
+
 .site .footer .contact {
   float: left;
   margin-right: 3em;
